@@ -13,9 +13,9 @@ Install expressolabs with npm
 
 ## Screenshots
 
-![List of Agents](expressolabs/src/assets/agents.png)
-![Add Agent](expressolabs/src/assets/addagent.png)
-![Update Agent](expressolabs/src/assets/updateagent.png)
+![List of Agents](src/assets/agents.png)
+![Add Agent](src/assets/addagent.png)
+![Update Agent](src/assets/updateagent.png)
 
 ## Video
 
