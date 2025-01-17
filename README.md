@@ -19,4 +19,4 @@ Install expressolabs with npm
 
 ## Video
 
-![Usage](expressolabs/src/assets/recording.mov)
+![Usage](src/assets/recording.mov)
