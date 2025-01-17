@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useAgents } from "../context";
 import AddAgentModal from "../add-agent-modal/add-agent-modal";
 import { AgentProps } from "../../types/agent-types";
+
 import s from "./agents-list.module.scss";
 
 const Agents: React.FC = () => {

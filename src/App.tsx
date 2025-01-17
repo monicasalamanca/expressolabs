@@ -1,7 +1,7 @@
 import Agents from "./components/agents-list/agents-list";
 import { AgentsProvider } from "./components/context";
 
-import "./App.css";
+import "./App.module.scss";
 
 function App() {
   return (
