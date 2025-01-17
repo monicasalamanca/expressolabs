@@ -19,4 +19,4 @@ Install expressolabs with npm
 
 ## Video
 
-![Usage](https://youtube.com/shorts/OeFTOfZXbiY?feature=share)
+![Usage](https://www.youtube.com/shorts/OeFTOfZXbiY)
